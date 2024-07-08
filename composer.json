@@ -1,5 +1,5 @@
 {
-    "name": "hyn/multi-tenant",
+    "name": "brezel/multi-tenant",
     "description": "Run multiple websites using the same laravel installation while keeping tenant specific data separated for fully independant multi-domain setups.",
     "keywords": [
         "laravel",
@@ -10,13 +10,7 @@
         "hyn"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Daniël Klabbers",
-            "email": "daniel+hyn@klabbers.email",
-            "homepage": "https://luceos.com"
-        }
-    ],
+    "authors": [],
     "support": {
         "issues": "https://github.com/hyn/multi-tenant/issues",
         "source": "https://github.com/hyn/multi-tenant",
