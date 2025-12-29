@@ -12,8 +12,7 @@
     "license": "MIT",
     "authors": [],
     "support": {
-        "issues": "https://github.com/hyn/multi-tenant/issues",
-        "source": "https://github.com/hyn/multi-tenant",
+        "source": "https://github.com/brezelio/hyn-multi-tenant",
         "docs": "https://tenancy.dev"
     },
     "require": {
